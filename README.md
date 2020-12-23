@@ -2,6 +2,10 @@
 
 ### iOS Project - SwiftUI
 
+Static UI for a weather app.
+
+Button "Change day time" changes the UI from day to night.
+
 Code follows @SAllen0400 style guide. 
 
 ####
